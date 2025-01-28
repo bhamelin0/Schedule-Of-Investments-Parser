@@ -1,14 +1,59 @@
-import pdfplumber
+import sys
 import os
+import pdfplumber
+
+from configobj import ConfigObj
 from dotenv import load_dotenv
 from openai import OpenAI
 
+if len(sys.argv == 0):
+    print('Please pass an argument to a config file. See README on Github for further information.')
+    exit
+
 load_dotenv()
-
 api_key=os.getenv('API_KEY')
-targetString = os.getenv('INVESTMENT_PAGE_TARGET')
-continuedTargetString = os.getenv('INVESTMENT_CONTINUE_PAGE_TARGET')
 
+if len(api_key) is 0:
+    print('An OpenAPI Key for gpt-4o-mini is required. See README on Github for further information.')
+    exit
+
+client = OpenAI(
+    api_key
+)
+
+# Initialize default configuration
+DEFAULT_INVESTMENT_PAGE_TARGET = "scheduleofinvestments"
+DEFAULT_INVESTMENT_CONTINUE_PAGE_TARGET = "(continued)"
+DEFAULT_COLCOUNT = 1
+
+# Load data from passed configuration file
+config = ConfigObj('myConfigFile.ini')
+pdfDoc = config.get('DOC') or ''
+headerHeight = int(config.get('DOC_HEADER')) or 0
+footerHeight = int(config.get('DOC_FOOTER')) or 0
+investmentPageTarget = config.get('INVESTMENT_PAGE_TARGET') or DEFAULT_INVESTMENT_PAGE_TARGET
+investmentContinuePageTarget = config.get('INVESTMENT_CONTINUE_PAGE_TARGET') or DEFAULT_INVESTMENT_CONTINUE_PAGE_TARGET
+columCount = int(config.get('DOC_COLCOUNT')) or DEFAULT_COLCOUNT
+segmentSize = 1 / columCount
+
+def extractPageText(page):
+    # Extract Header
+    pageHeader = page.crop((0, 0, page.width, headerHeight))
+    pageHeader.to_image(resolution=300).save("Header.png")
+
+    # Extract Footer
+    pageFooter = page.crop((0, footerHeight, page.width, page.height))
+    pageFooter.to_image(resolution=300).save("Footer.png")
+
+    # Combine segments into valid text output
+    reportText = pageHeader.extract_text(layout=True) + "\n"
+
+    for column in range(columCount):
+        croppedPage = page.crop((segmentSize * column * float(page.width), headerHeight, segmentSize * (column + 1) * float(page.width), footerHeight))
+        croppedPage.to_image(resolution=300).save(f'CroppedPage{column}.png')
+        reportText += croppedPage.extract_text(layout=True) + "\n"
+
+    reportText += pageFooter.extract_text(layout=True) + "\n"
 
 pdf = pdfplumber.open("PDFs/fqr-retail-blackrock-international-fund.pdf")
 
@@ -23,22 +68,17 @@ processedReport = reportText
 
 # Reduce pages to pages marked as Schedule of Investment or other important keywords
 # To prevent file inconsistencies, remove all whitespace and compare as lowercase
-
 for page in pdf.pages:
-    pageText = page.extract_text(layout=True)
+    pageText = extractPageText(page)
     processedPageText = pageText.replace(" ", "").lower()
     for index, pageLine  in enumerate(processedPageText.split()):
-        if targetString in pageLine:
-            if continuedTargetString in pageLine:
+        if investmentPageTarget in pageLine:
+            if investmentContinuePageTarget in pageLine:
                 investmentPages.append((index, 0, pageText))
                 break
             else:
                  investmentPages.append((index, 1, pageText)) # The results from this page should be folded into the first page's data
                  break
-
-client = OpenAI(
-    api_key
-)
 
 # Loop through funds, extracting key datapoints
 for scheduleOfInvestment in investmentPages:
