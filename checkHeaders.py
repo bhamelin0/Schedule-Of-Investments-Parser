@@ -39,14 +39,14 @@ testPage = pdf.pages[testPage]
 
 if headerHeight > 0:
     pageHeader = extractPageHeader(testPage, headerHeight)
-    pageHeader.to_image().save('Header-Test-Image.png')
+    pageHeader.to_image(resolution = 300).save('Header-Test-Image.png')
 
 if footerHeight > 0:
     pageFooter = extractPageFooter(testPage, footerHeight)
-    pageFooter.to_image().save('Footer-Test-Image.png')
+    pageFooter.to_image(resolution = 300).save('Footer-Test-Image.png')
 
 pageBodySegments = extractPageBody(testPage, headerHeight, footerHeight, columnCount)
 for index, column in enumerate(pageBodySegments):
-    column.to_image().save(f'{index}-Body-Test-Image.png')
+    column.to_image(resolution = 300).save(f'{index}-Body-Test-Image.png')
 
 print("Sample segment images created.")
