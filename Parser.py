@@ -18,11 +18,11 @@ def extractPageHeader(page, headerHeight):
 def extractPageFooter(page, footerHeight):
     return page.crop((0, page.height - footerHeight, page.width, page.height))
 
-def extractPageBody(page, columnCount, headerHeight, footerHeight):
+def extractPageBody(page, headerHeight, footerHeight, columnCount):
     segmentSize = 1 / columnCount
     sections = []
     for column in range(columnCount):
-        croppedPage = page.crop((segmentSize * column * float(page.width), headerHeight, segmentSize * (column + 1) * float(page.width), footerHeight))
+        croppedPage = page.crop((segmentSize * column * float(page.width), headerHeight, segmentSize * (column + 1) * float(page.width), page.height - footerHeight))
         sections.append(croppedPage)
     return sections
 
@@ -34,7 +34,7 @@ def extractPageFooterText(page, footerHeight):
 
 def extractPageBodyText(page, headerHeight, footerHeight, columnCount):
     reportText = ""
-    for column in extractPageBody(page, columnCount, headerHeight, footerHeight):
+    for column in extractPageBody(page, headerHeight, footerHeight, columnCount):
         reportText += column.extract_text(layout=True) + "\n"
     return reportText
 
@@ -162,6 +162,7 @@ def parseInvestmentThroughAPI(investmentPages, client):
 
         print(f"\r{index + 1}/{len(investmentPages)} parsed...", end='', flush=True)
     print()
+    return scheduleOfInvestmentsList
 
 # Pretty print based on configuration
 def outputScheduleInvestmentJson(scheduleOfInvestmentsList, outputFile):
@@ -201,7 +202,7 @@ def main():
     )
 
     investmentData = constructScheduleOfInvestmentData(configFile)
-    apiResponse = parseInvestmentThroughAPI(investmentData)
+    apiResponse = parseInvestmentThroughAPI(investmentData, client)
     outputScheduleInvestmentJson(apiResponse, outputFile)
 
 if __name__=="__main__":
