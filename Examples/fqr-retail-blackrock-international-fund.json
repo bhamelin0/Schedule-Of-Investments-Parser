@@ -1,0 +1,406 @@
+{
+    "funds": [
+        {
+            "Fund Name": "BlackRock International Fund",
+            "Report Date": "2024-08-31",
+            "Schedule of Investments": [
+                {
+                    "Security Name": "XP, Inc., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Brazil",
+                    "Number of Shares": 1727039,
+                    "Principle": null,
+                    "Market Value": "$31,794,788"
+                },
+                {
+                    "Security Name": "Canadian National Railway Co",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Canada",
+                    "Number of Shares": 590129,
+                    "Principle": null,
+                    "Market Value": "$69,533,324"
+                },
+                {
+                    "Security Name": "Canadian Pacific Kansas City Ltd",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Canada",
+                    "Number of Shares": 863943,
+                    "Principle": null,
+                    "Market Value": "$71,716,917"
+                },
+                {
+                    "Security Name": "Teck Resources Ltd., Class B",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Canada",
+                    "Number of Shares": 520627,
+                    "Principle": null,
+                    "Market Value": "$24,929,366"
+                },
+                {
+                    "Security Name": "Tencent Holdings Ltd",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "China",
+                    "Number of Shares": 1620900,
+                    "Principle": null,
+                    "Market Value": "$78,613,506"
+                },
+                {
+                    "Security Name": "Novo Nordisk A/S, Class B",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Denmark",
+                    "Number of Shares": 770797,
+                    "Principle": null,
+                    "Market Value": "$107,071,543"
+                },
+                {
+                    "Security Name": "Air Liquide SA",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "France",
+                    "Number of Shares": 152299,
+                    "Principle": null,
+                    "Market Value": "$28,426,318"
+                },
+                {
+                    "Security Name": "Cie de Saint-Gobain SA",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "France",
+                    "Number of Shares": 592413,
+                    "Principle": null,
+                    "Market Value": "$51,768,531"
+                },
+                {
+                    "Security Name": "LVMH Moet Hennessy Louis Vuitton SE",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "France",
+                    "Number of Shares": 74437,
+                    "Principle": null,
+                    "Market Value": "$55,404,705"
+                },
+                {
+                    "Security Name": "adidas AG, Class N",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Germany",
+                    "Number of Shares": 135103,
+                    "Principle": null,
+                    "Market Value": "$34,662,479"
+                },
+                {
+                    "Security Name": "Beiersdorf AG",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Germany",
+                    "Number of Shares": 598034,
+                    "Principle": null,
+                    "Market Value": "$86,475,780"
+                },
+                {
+                    "Security Name": "Deutsche Telekom AG, Registered Shares",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Germany",
+                    "Number of Shares": 3162576,
+                    "Principle": null,
+                    "Market Value": "$89,984,829"
+                },
+                {
+                    "Security Name": "Infineon Technologies AG, Class N",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Germany",
+                    "Number of Shares": 861798,
+                    "Principle": null,
+                    "Market Value": "$31,627,294"
+                },
+                {
+                    "Security Name": "Ferrari NV",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Italy",
+                    "Number of Shares": 93070,
+                    "Principle": null,
+                    "Market Value": "$46,247,153"
+                },
+                {
+                    "Security Name": "Intesa Sanpaolo SpA",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Italy",
+                    "Number of Shares": 8971786,
+                    "Principle": null,
+                    "Market Value": "$37,496,526"
+                },
+                {
+                    "Security Name": "Nintendo Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Japan",
+                    "Number of Shares": 913900,
+                    "Principle": null,
+                    "Market Value": "$49,701,748"
+                },
+                {
+                    "Security Name": "Recruit Holdings Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Japan",
+                    "Number of Shares": 987300,
+                    "Principle": null,
+                    "Market Value": "$61,569,960"
+                },
+                {
+                    "Security Name": "Sony Group Corp",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Japan",
+                    "Number of Shares": 954100,
+                    "Principle": null,
+                    "Market Value": "$92,923,774"
+                },
+                {
+                    "Security Name": "ASML Holding NV",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Netherlands",
+                    "Number of Shares": 70926,
+                    "Principle": null,
+                    "Market Value": "$63,963,482"
+                },
+                {
+                    "Security Name": "Samsung Electronics Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "South Korea",
+                    "Number of Shares": 1060195,
+                    "Principle": null,
+                    "Market Value": "$58,881,452"
+                },
+                {
+                    "Security Name": "Julius Baer Group Ltd., Registered Shares",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Switzerland",
+                    "Number of Shares": 572769,
+                    "Principle": null,
+                    "Market Value": "$33,517,571"
+                },
+                {
+                    "Security Name": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "Taiwan",
+                    "Number of Shares": 2287000,
+                    "Principle": null,
+                    "Market Value": "$67,707,491"
+                },
+                {
+                    "Security Name": "AstraZeneca PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "United Kingdom",
+                    "Number of Shares": 298684,
+                    "Principle": null,
+                    "Market Value": "$52,349,042"
+                },
+                {
+                    "Security Name": "RELX PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "United Kingdom",
+                    "Number of Shares": 788577,
+                    "Principle": null,
+                    "Market Value": "$36,818,991"
+                },
+                {
+                    "Security Name": "Standard Chartered PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "United Kingdom",
+                    "Number of Shares": 6186681,
+                    "Principle": null,
+                    "Market Value": "$63,657,224"
+                },
+                {
+                    "Security Name": "Baker Hughes Co., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "United States",
+                    "Number of Shares": 1080704,
+                    "Principle": null,
+                    "Market Value": "$38,008,360"
+                },
+                {
+                    "Security Name": "Cadence Design Systems, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "United States",
+                    "Number of Shares": 176006,
+                    "Principle": null,
+                    "Market Value": "$47,333,293"
+                },
+                {
+                    "Security Name": "Mastercard, Inc., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "United States",
+                    "Number of Shares": 172840,
+                    "Principle": null,
+                    "Market Value": "$83,540,486"
+                },
+                {
+                    "Security Name": "Thermo Fisher Scientific, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": null,
+                    "Country": "United States",
+                    "Number of Shares": 94919,
+                    "Principle": null,
+                    "Market Value": "$58,381,829"
+                },
+                {
+                    "Security Name": "BlackRock Liquidity Funds, T-Fund, Institutional Shares",
+                    "Security Type": "Money Market Fund",
+                    "Sector": null,
+                    "Country": null,
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": "$15,397,393"
+                },
+                {
+                    "Security Name": "Brazil",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Brazil",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Canada",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Canada",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "China",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "China",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Denmark",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Denmark",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "France",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "France",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Germany",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Germany",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Italy",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Italy",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Japan",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Japan",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Netherlands",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Netherlands",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "South Korea",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "South Korea",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Switzerland",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "Switzerland",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "United Kingdom",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "United Kingdom",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": "$152,825,257"
+                },
+                {
+                    "Security Name": "United States",
+                    "Security Type": "Common Stocks",
+                    "Sector": null,
+                    "Country": "United States",
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": "$227,263,968"
+                },
+                {
+                    "Security Name": "Money Market Funds",
+                    "Security Type": "Short-Term Securities",
+                    "Sector": null,
+                    "Country": null,
+                    "Number of Shares": null,
+                    "Principle": null,
+                    "Market Value": "$15,397,393"
+                }
+            ]
+        }
+    ]
+}

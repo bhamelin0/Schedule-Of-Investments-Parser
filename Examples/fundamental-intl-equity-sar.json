@@ -1,0 +1,3469 @@
+{
+    "funds": [
+        {
+            "Fund Name": "GOLDMAN SACHS CHINA EQUITY FUND",
+            "Report Date": "2024-04-30",
+            "Schedule of Investments": [
+                {
+                    "Security Name": "Aier Eye Hospital Group Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "China",
+                    "Number of Shares": 99816,
+                    "Principle": null,
+                    "Market Value": "$176,979"
+                },
+                {
+                    "Security Name": "Alibaba Group Holding Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "China",
+                    "Number of Shares": 166076,
+                    "Principle": null,
+                    "Market Value": "$1,554,980"
+                },
+                {
+                    "Security Name": "Anji Microelectronics Technology Shanghai Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 14134,
+                    "Principle": null,
+                    "Market Value": "$320,947"
+                },
+                {
+                    "Security Name": "ANTTTASports Products Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 57200,
+                    "Principle": null,
+                    "Market Value": "$647,561"
+                },
+                {
+                    "Security Name": "Baidu, Inc., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Media & Entertainment",
+                    "Country": "China",
+                    "Number of Shares": 39050,
+                    "Principle": null,
+                    "Market Value": "$505,916"
+                },
+                {
+                    "Security Name": "Bank of Jiangsu Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "China",
+                    "Number of Shares": 603800,
+                    "Principle": null,
+                    "Market Value": "$671,979"
+                },
+                {
+                    "Security Name": "Bank of Ningbo Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "China",
+                    "Number of Shares": 100341,
+                    "Principle": null,
+                    "Market Value": "$316,286"
+                },
+                {
+                    "Security Name": "BYD Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 8800,
+                    "Principle": null,
+                    "Market Value": "$263,750"
+                },
+                {
+                    "Security Name": "BYD Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 18000,
+                    "Principle": null,
+                    "Market Value": "$493,426"
+                },
+                {
+                    "Security Name": "China Merchants Bank Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "China",
+                    "Number of Shares": 137400,
+                    "Principle": null,
+                    "Market Value": "$647,181"
+                },
+                {
+                    "Security Name": "China Merchants Bank Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "China",
+                    "Number of Shares": 152000,
+                    "Principle": null,
+                    "Market Value": "$658,290"
+                },
+                {
+                    "Security Name": "China Petroleum & Chemical Corp., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "China",
+                    "Number of Shares": 1506000,
+                    "Principle": null,
+                    "Market Value": "$898,934"
+                },
+                {
+                    "Security Name": "China Resources Sanjiu Medical & Pharmaceutical Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "China",
+                    "Number of Shares": 34200,
+                    "Principle": null,
+                    "Market Value": "$282,749"
+                },
+                {
+                    "Security Name": "China Tower Corp. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Telecommunication Services",
+                    "Country": "China",
+                    "Number of Shares": 2500000,
+                    "Principle": null,
+                    "Market Value": "$292,648"
+                },
+                {
+                    "Security Name": "China Yangtze Power Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Utilities",
+                    "Country": "China",
+                    "Number of Shares": 273500,
+                    "Principle": null,
+                    "Market Value": "$972,409"
+                },
+                {
+                    "Security Name": "CITIC Securities Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "China",
+                    "Number of Shares": 206000,
+                    "Principle": null,
+                    "Market Value": "$327,976"
+                },
+                {
+                    "Security Name": "Contemporary Amperex Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 36436,
+                    "Principle": null,
+                    "Market Value": "$1,017,351"
+                },
+                {
+                    "Security Name": "East Money Information Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "China",
+                    "Number of Shares": 174691,
+                    "Principle": null,
+                    "Market Value": "$312,821"
+                },
+                {
+                    "Security Name": "Fuyao Glass Industry Group Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 96280,
+                    "Principle": null,
+                    "Market Value": "$660,851"
+                },
+                {
+                    "Security Name": "HWW World Group Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Services",
+                    "Country": "China",
+                    "Number of Shares": 58000,
+                    "Principle": null,
+                    "Market Value": "$215,799"
+                },
+                {
+                    "Security Name": "HWW World Group Ltd. ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Services",
+                    "Country": "China",
+                    "Number of Shares": 4018,
+                    "Principle": null,
+                    "Market Value": "$147,501"
+                },
+                {
+                    "Security Name": "Haidilao International Holding Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Services",
+                    "Country": "China",
+                    "Number of Shares": 122000,
+                    "Principle": null,
+                    "Market Value": "$275,257"
+                },
+                {
+                    "Security Name": "Hualan Biological Engineering, Inc., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "China",
+                    "Number of Shares": 113700,
+                    "Principle": null,
+                    "Market Value": "$304,709"
+                },
+                {
+                    "Security Name": "Inner Mongolia Yili Industrial Group Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "China",
+                    "Number of Shares": 91000,
+                    "Principle": null,
+                    "Market Value": "$357,999"
+                },
+                {
+                    "Security Name": "Innooovent Biologics, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "China",
+                    "Number of Shares": 50500,
+                    "Principle": null,
+                    "Market Value": "$244,469"
+                },
+                {
+                    "Security Name": "JD.com, Inc., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "China",
+                    "Number of Shares": 47150,
+                    "Principle": null,
+                    "Market Value": "$679,355"
+                },
+                {
+                    "Security Name": "Jiangsu Expressway Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Transportation",
+                    "Country": "China",
+                    "Number of Shares": 231900,
+                    "Principle": null,
+                    "Market Value": "$354,546"
+                },
+                {
+                    "Security Name": "Jiangsu Hengrui Pharmaceuticals Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "China",
+                    "Number of Shares": 71496,
+                    "Principle": null,
+                    "Market Value": "$453,232"
+                },
+                {
+                    "Security Name": "KE Holdings, Inc. ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Real Estate Management & Development",
+                    "Country": "China",
+                    "Number of Shares": 8954,
+                    "Principle": null,
+                    "Market Value": "$135,384"
+                },
+                {
+                    "Security Name": "Kingdee International Software Group Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Software & Services",
+                    "Country": "China",
+                    "Number of Shares": 130000,
+                    "Principle": null,
+                    "Market Value": "$137,153"
+                },
+                {
+                    "Security Name": "Kweichow Moutai Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "China",
+                    "Number of Shares": 7219,
+                    "Principle": null,
+                    "Market Value": "$1,689,671"
+                },
+                {
+                    "Security Name": "Li Auto, Inc., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 19300,
+                    "Principle": null,
+                    "Market Value": "$252,867"
+                },
+                {
+                    "Security Name": "Meituan, Class B",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Services",
+                    "Country": "China",
+                    "Number of Shares": 65790,
+                    "Principle": null,
+                    "Market Value": "$898,332"
+                },
+                {
+                    "Security Name": "Midea Group Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 79500,
+                    "Principle": null,
+                    "Market Value": "$763,284"
+                },
+                {
+                    "Security Name": "Montage Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 37833,
+                    "Principle": null,
+                    "Market Value": "$262,302"
+                },
+                {
+                    "Security Name": "NARI Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 147036,
+                    "Principle": null,
+                    "Market Value": "$474,745"
+                },
+                {
+                    "Security Name": "Ningbo Tuopu Group Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 33150,
+                    "Principle": null,
+                    "Market Value": "$284,763"
+                },
+                {
+                    "Security Name": "PDD Holdings, Inc. ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "China",
+                    "Number of Shares": 3896,
+                    "Principle": null,
+                    "Market Value": "$487,701"
+                },
+                {
+                    "Security Name": "PetroChina Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "China",
+                    "Number of Shares": 720000,
+                    "Principle": null,
+                    "Market Value": "$670,854"
+                },
+                {
+                    "Security Name": "PICC Property & Casualty Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "China",
+                    "Number of Shares": 418000,
+                    "Principle": null,
+                    "Market Value": "$519,316"
+                },
+                {
+                    "Security Name": "Ping An Insurance Group Co. of China Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "China",
+                    "Number of Shares": 62700,
+                    "Principle": null,
+                    "Market Value": "$355,803"
+                },
+                {
+                    "Security Name": "Ping An Insurance Group Co. of China Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "China",
+                    "Number of Shares": 115500,
+                    "Principle": null,
+                    "Market Value": "$523,456"
+                },
+                {
+                    "Security Name": "Postal Savings Bank of China Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "China",
+                    "Number of Shares": 1172055,
+                    "Principle": null,
+                    "Market Value": "$774,314"
+                },
+                {
+                    "Security Name": "SG Micro Corp., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 27650,
+                    "Principle": null,
+                    "Market Value": "$291,527"
+                },
+                {
+                    "Security Name": "Shenzhen Innoovance Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 37678,
+                    "Principle": null,
+                    "Market Value": "$309,062"
+                },
+                {
+                    "Security Name": "Shenzhen Mindray Bio-Medical Electronics Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "China",
+                    "Number of Shares": 11000,
+                    "Principle": null,
+                    "Market Value": "$461,086"
+                },
+                {
+                    "Security Name": "Sieyuan Electric Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 46000,
+                    "Principle": null,
+                    "Market Value": "$412,034"
+                },
+                {
+                    "Security Name": "Sinotrans Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Transportation",
+                    "Country": "China",
+                    "Number of Shares": 374100,
+                    "Principle": null,
+                    "Market Value": "$302,737"
+                },
+                {
+                    "Security Name": "Sungrow Power Supply Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 18012,
+                    "Principle": null,
+                    "Market Value": "$255,360"
+                },
+                {
+                    "Security Name": "Sunresin New Materials Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 34149,
+                    "Principle": null,
+                    "Market Value": "$219,272"
+                },
+                {
+                    "Security Name": "Tencent Holdings Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Media & Entertainment",
+                    "Country": "China",
+                    "Number of Shares": 83300,
+                    "Principle": null,
+                    "Market Value": "$3,655,471"
+                },
+                {
+                    "Security Name": "Tencent Music Entertainment Group ADR",
+                    "Security Type": "ADR",
+                    "Sector": "Media & Entertainment",
+                    "Country": "China",
+                    "Number of Shares": 21515,
+                    "Principle": null,
+                    "Market Value": "$270,013"
+                },
+                {
+                    "Security Name": "Trip.com Group Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Services",
+                    "Country": "China",
+                    "Number of Shares": 17200,
+                    "Principle": null,
+                    "Market Value": "$837,767"
+                },
+                {
+                    "Security Name": "Tsingtao Brewery Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food & Beverage & Tobacco",
+                    "Country": "China",
+                    "Number of Shares": 50000,
+                    "Principle": null,
+                    "Market Value": "$360,320"
+                },
+                {
+                    "Security Name": "Venustech Group, Inc., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Software & Services",
+                    "Country": "China",
+                    "Number of Shares": 78500,
+                    "Principle": null,
+                    "Market Value": "$211,956"
+                },
+                {
+                    "Security Name": "Wanhua Chemical Group Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 19498,
+                    "Principle": null,
+                    "Market Value": "$238,461"
+                },
+                {
+                    "Security Name": "Weichai Power Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 248698,
+                    "Principle": null,
+                    "Market Value": "$595,624"
+                },
+                {
+                    "Security Name": "Wens Foodstuffs Group Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food & Beverage & Tobacco",
+                    "Country": "China",
+                    "Number of Shares": 86966,
+                    "Principle": null,
+                    "Market Value": "$229,953"
+                },
+                {
+                    "Security Name": "Will Semiconductor Co. Ltd. Shanghai, Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 25139,
+                    "Principle": null,
+                    "Market Value": "$350,676"
+                },
+                {
+                    "Security Name": "WuXi AppTec Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "China",
+                    "Number of Shares": 20228,
+                    "Principle": null,
+                    "Market Value": "$91,048"
+                },
+                {
+                    "Security Name": "Xiaomi Corp., Class B",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "China",
+                    "Number of Shares": 321400,
+                    "Principle": null,
+                    "Market Value": "$700,629"
+                },
+                {
+                    "Security Name": "Yifeng Pharmacy Chain Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "China",
+                    "Number of Shares": 46528,
+                    "Principle": null,
+                    "Market Value": "$280,952"
+                },
+                {
+                    "Security Name": "Yunnan Aluminium Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 284070,
+                    "Principle": null,
+                    "Market Value": "$559,584"
+                },
+                {
+                    "Security Name": "Zhejiang Sanhua Intelligent Controls Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 46719,
+                    "Principle": null,
+                    "Market Value": "$140,792"
+                },
+                {
+                    "Security Name": "Zhongji Innolight Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "China",
+                    "Number of Shares": 20600,
+                    "Principle": null,
+                    "Market Value": "$518,364"
+                },
+                {
+                    "Security Name": "Zijin Mining Group Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 544000,
+                    "Principle": null,
+                    "Market Value": "$1,186,720"
+                },
+                {
+                    "Security Name": "ZTO Express Cayman, Inc. ADR",
+                    "Security Type": "ADR",
+                    "Sector": "Transportation",
+                    "Country": "China",
+                    "Number of Shares": 21801,
+                    "Principle": null,
+                    "Market Value": "$457,603"
+                },
+                {
+                    "Security Name": "AIA Group Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 16200,
+                    "Principle": null,
+                    "Market Value": "$118,655"
+                },
+                {
+                    "Security Name": "ASMPT Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 20500,
+                    "Principle": null,
+                    "Market Value": "$254,767"
+                },
+                {
+                    "Security Name": "Hong Kong Exchanges & Clearing Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Financial Services",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 5901,
+                    "Principle": null,
+                    "Market Value": "$187,501"
+                },
+                {
+                    "Security Name": "Sino Biopharmaceutical Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 121500,
+                    "Principle": null,
+                    "Market Value": "$41,516"
+                },
+                {
+                    "Security Name": "Sino Land Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Real Estate Management & Development",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 168000,
+                    "Principle": null,
+                    "Market Value": "$179,626"
+                },
+                {
+                    "Security Name": "Techtronic Industries Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 9500,
+                    "Principle": null,
+                    "Market Value": "$131,283"
+                },
+                {
+                    "Security Name": "Chroma ATE, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 36000,
+                    "Principle": null,
+                    "Market Value": "$292,382"
+                },
+                {
+                    "Security Name": "Jentech Precision Industrial Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 13000,
+                    "Principle": null,
+                    "Market Value": "$386,781"
+                }
+            ]
+        },
+        {
+            "Fund Name": "GOLDMAN SACHS EMERGING MARKETS EQUITY FUND",
+            "Report Date": "2024-04-30",
+            "Schedule of Investments": [
+                {
+                    "Security Name": "Caixa Seguridade Participacoes SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "Brazil",
+                    "Number of Shares": 2794579,
+                    "Principle": "$8,427,976",
+                    "Market Value": "$8,427,976"
+                },
+                {
+                    "Security Name": "Fleury SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 3097700,
+                    "Principle": "$8,638,196",
+                    "Market Value": "$8,638,196"
+                },
+                {
+                    "Security Name": "MercadoLibre, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Discretionary",
+                    "Country": "Brazil",
+                    "Number of Shares": 22378,
+                    "Principle": "$32,642,789",
+                    "Market Value": "$32,642,789"
+                },
+                {
+                    "Security Name": "NU Holdings Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Brazil",
+                    "Number of Shares": 1712468,
+                    "Principle": "$18,597,403",
+                    "Market Value": "$18,597,403"
+                },
+                {
+                    "Security Name": "Odontoprev SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 1265710,
+                    "Principle": "$2,912,844",
+                    "Market Value": "$2,912,844"
+                },
+                {
+                    "Security Name": "PRIO SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Energy",
+                    "Country": "Brazil",
+                    "Number of Shares": 1001900,
+                    "Principle": "$9,261,488",
+                    "Market Value": "$9,261,488"
+                },
+                {
+                    "Security Name": "Raia Drogasil SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Staples",
+                    "Country": "Brazil",
+                    "Number of Shares": 2115600,
+                    "Principle": "$10,421,956",
+                    "Market Value": "$10,421,956"
+                },
+                {
+                    "Security Name": "Rumo SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Transportation",
+                    "Country": "Brazil",
+                    "Number of Shares": 2457100,
+                    "Principle": "$9,539,563",
+                    "Market Value": "$9,539,563"
+                },
+                {
+                    "Security Name": "Sendas Distribuidora SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Staples",
+                    "Country": "Brazil",
+                    "Number of Shares": 5693200,
+                    "Principle": "$14,384,852",
+                    "Market Value": "$14,384,852"
+                },
+                {
+                    "Security Name": "TIM SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 4072400,
+                    "Principle": "$13,810,993",
+                    "Market Value": "$13,810,993"
+                },
+                {
+                    "Security Name": "TOTVS SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Software & Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 2324300,
+                    "Principle": "$12,327,393",
+                    "Market Value": "$12,327,393"
+                },
+                {
+                    "Security Name": "Vivara Participacoes SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Brazil",
+                    "Number of Shares": 957400,
+                    "Principle": "$4,085,811",
+                    "Market Value": "$4,085,811"
+                },
+                {
+                    "Security Name": "Alibaba Group Holding Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Discretionary",
+                    "Country": "China",
+                    "Number of Shares": 8632224,
+                    "Principle": "$80,824,070",
+                    "Market Value": "$80,824,070"
+                },
+                {
+                    "Security Name": "ANTTA Sports Products Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 2054200,
+                    "Principle": "$23,255,583",
+                    "Market Value": "$23,255,583"
+                },
+                {
+                    "Security Name": "BYD Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 908500,
+                    "Principle": "$24,904,332",
+                    "Market Value": "$24,904,332"
+                },
+                {
+                    "Security Name": "China Merchants Bank Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "China",
+                    "Number of Shares": 9166000,
+                    "Principle": "$39,696,641",
+                    "Market Value": "$39,696,641"
+                },
+                {
+                    "Security Name": "China Yangtze Power Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Utilities",
+                    "Country": "China",
+                    "Number of Shares": 3761780,
+                    "Principle": "$13,374,734",
+                    "Market Value": "$13,374,734"
+                },
+                {
+                    "Security Name": "Contemporary Amperex Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 881574,
+                    "Principle": "$24,614,956",
+                    "Market Value": "$24,614,956"
+                },
+                {
+                    "Security Name": "Fuyao Glass Industry Group Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 3095600,
+                    "Principle": "$18,533,553",
+                    "Market Value": "$18,533,553"
+                },
+                {
+                    "Security Name": "Hualan Biological Engineering, Inc., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "China",
+                    "Number of Shares": 3800797,
+                    "Principle": "$10,185,910",
+                    "Market Value": "$10,185,910"
+                },
+                {
+                    "Security Name": "KE Holdings, Inc. ADR",
+                    "Security Type": "Common Stock",
+                    "Sector": "Real Estate Management & Development",
+                    "Country": "China",
+                    "Number of Shares": 1115246,
+                    "Principle": "$16,862,520",
+                    "Market Value": "$16,862,520"
+                },
+                {
+                    "Security Name": "Kweichow Moutai Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food & Beverage & Tobacco",
+                    "Country": "China",
+                    "Number of Shares": 278651,
+                    "Principle": "$65,220,750",
+                    "Market Value": "$65,220,750"
+                },
+                {
+                    "Security Name": "Meituan, Class B",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Services",
+                    "Country": "China",
+                    "Number of Shares": 3031200,
+                    "Principle": "$41,389,615",
+                    "Market Value": "$41,389,615"
+                },
+                {
+                    "Security Name": "Midea Group Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 1808300,
+                    "Principle": "$17,361,590",
+                    "Market Value": "$17,361,590"
+                },
+                {
+                    "Security Name": "NARI Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 3179300,
+                    "Principle": "$10,265,212",
+                    "Market Value": "$10,265,212"
+                },
+                {
+                    "Security Name": "PICC Property & Casualty Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "China",
+                    "Number of Shares": 13158000,
+                    "Principle": "$16,347,280",
+                    "Market Value": "$16,347,280"
+                },
+                {
+                    "Security Name": "Ping An Insurance Group Co. of China Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "China",
+                    "Number of Shares": 4375000,
+                    "Principle": "$19,827,864",
+                    "Market Value": "$19,827,864"
+                },
+                {
+                    "Security Name": "Shenzhen Mindray Bio-Medical Electronics Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "China",
+                    "Number of Shares": 395329,
+                    "Principle": "$16,570,959",
+                    "Market Value": "$16,570,959"
+                },
+                {
+                    "Security Name": "Shenzhou International Group Holdings Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 2095300,
+                    "Principle": "$20,595,148",
+                    "Market Value": "$20,595,148"
+                },
+                {
+                    "Security Name": "Silergy Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 1354988,
+                    "Principle": "$17,995,768",
+                    "Market Value": "$17,995,768"
+                },
+                {
+                    "Security Name": "Sunresin New Materials Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 1675740,
+                    "Principle": "$10,759,999",
+                    "Market Value": "$10,759,999"
+                },
+                {
+                    "Security Name": "Tencent Holdings Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Media & Entertainment",
+                    "Country": "China",
+                    "Number of Shares": 3471200,
+                    "Principle": "$152,327,365",
+                    "Market Value": "$152,327,365"
+                },
+                {
+                    "Security Name": "Tencent Music Entertainment Group ADR",
+                    "Security Type": "Common Stock",
+                    "Sector": "Media & Entertainment",
+                    "Country": "China",
+                    "Number of Shares": 925692,
+                    "Principle": "$11,617,435",
+                    "Market Value": "$11,617,435"
+                },
+                {
+                    "Security Name": "Weichai Power Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 8514000,
+                    "Principle": "$17,397,192",
+                    "Market Value": "$17,397,192"
+                },
+                {
+                    "Security Name": "Will Semiconductor Co. Ltd. Shanghai, Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 1127616,
+                    "Principle": "$15,729,678",
+                    "Market Value": "$15,729,678"
+                },
+                {
+                    "Security Name": "Yunnan Aluminium Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 11726992,
+                    "Principle": "$23,100,789",
+                    "Market Value": "$23,100,789"
+                },
+                {
+                    "Security Name": "Zhejiang Sanhua Intelligent Controls Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 3128392,
+                    "Principle": "$9,427,668",
+                    "Market Value": "$9,427,668"
+                },
+                {
+                    "Security Name": "Zhongji Innolight Co. Ltd., Class A",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "China",
+                    "Number of Shares": 631597,
+                    "Principle": "$15,893,054",
+                    "Market Value": "$15,893,054"
+                },
+                {
+                    "Security Name": "Zijin Mining Group Co. Ltd., Class H",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 6994000,
+                    "Principle": "$15,257,212",
+                    "Market Value": "$15,257,212"
+                },
+                {
+                    "Security Name": "ZTO Express Cayman, Inc. ADR",
+                    "Security Type": "Common Stock",
+                    "Sector": "Transportation",
+                    "Country": "China",
+                    "Number of Shares": 713913,
+                    "Principle": "$14,985,034",
+                    "Market Value": "$14,985,034"
+                },
+                {
+                    "Security Name": "Commercial International Bank - Egypt (CIB), GDR",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Egypt",
+                    "Number of Shares": 8531781,
+                    "Principle": "$12,644,099",
+                    "Market Value": "$12,644,099"
+                },
+                {
+                    "Security Name": "JUMBO SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Discretionary",
+                    "Country": "Greece",
+                    "Number of Shares": 522297,
+                    "Principle": "$16,264,805",
+                    "Market Value": "$16,264,805"
+                },
+                {
+                    "Security Name": "Mytilineos SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "Greece",
+                    "Number of Shares": 213949,
+                    "Principle": "$8,679,937",
+                    "Market Value": "$8,679,937"
+                },
+                {
+                    "Security Name": "National Bank of Greece SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Greece",
+                    "Number of Shares": 4238444,
+                    "Principle": "$34,195,919",
+                    "Market Value": "$34,195,919"
+                },
+                {
+                    "Security Name": "Piraeus Financial Holdings SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Greece",
+                    "Number of Shares": 2859022,
+                    "Principle": "$11,453,110",
+                    "Market Value": "$11,453,110"
+                },
+                {
+                    "Security Name": "Sberbank of Russia PJSC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Russia",
+                    "Number of Shares": 4327745,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Alinma Bank",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Saudi Arabia",
+                    "Number of Shares": 1490493,
+                    "Principle": "$13,221,466",
+                    "Market Value": "$13,221,466"
+                },
+                {
+                    "Security Name": "Co. for Cooperative Insurance (The)",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "Saudi Arabia",
+                    "Number of Shares": 331245,
+                    "Principle": "$13,146,315",
+                    "Market Value": "$13,146,315"
+                },
+                {
+                    "Security Name": "Saudi Arabian Oil Co.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "Saudi Arabia",
+                    "Number of Shares": 3308848,
+                    "Principle": "$26,512,854",
+                    "Market Value": "$26,512,854"
+                },
+                {
+                    "Security Name": "Saudi National Bank (The)",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Saudi Arabia",
+                    "Number of Shares": 1214263,
+                    "Principle": "$12,155,335",
+                    "Market Value": "$12,155,335"
+                },
+                {
+                    "Security Name": "Nanoffilm Technologies International Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "Singapore",
+                    "Number of Shares": 7450093,
+                    "Principle": "$3,518,896",
+                    "Market Value": "$3,518,896"
+                },
+                {
+                    "Security Name": "TDCX, Inc. ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Commercial & Professional Services",
+                    "Country": "Singapore",
+                    "Number of Shares": 562724,
+                    "Principle": "$4,029,104",
+                    "Market Value": "$4,029,104"
+                },
+                {
+                    "Security Name": "Nooova Ljubljanska Banka, GDR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Slovenia",
+                    "Number of Shares": 845510,
+                    "Principle": "$18,227,041",
+                    "Market Value": "$18,227,041"
+                },
+                {
+                    "Security Name": "Clicks Group Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "South Africa",
+                    "Number of Shares": 1172869,
+                    "Principle": "$18,167,045",
+                    "Market Value": "$18,167,045"
+                },
+                {
+                    "Security Name": "JSI Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "South Africa",
+                    "Number of Shares": 1552394,
+                    "Principle": "$7,088,410",
+                    "Market Value": "$7,088,410"
+                },
+                {
+                    "Security Name": "Old Mutual Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "South Africa",
+                    "Number of Shares": 20600993,
+                    "Principle": "$12,062,055",
+                    "Market Value": "$12,062,055"
+                },
+                {
+                    "Security Name": "HD Hyundai Marine Solution Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Engineering & Construction",
+                    "Country": "South Korea",
+                    "Number of Shares": 74450,
+                    "Principle": "$4,492,533",
+                    "Market Value": "$4,492,533"
+                },
+                {
+                    "Security Name": "Hyundai Motor Co.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "South Korea",
+                    "Number of Shares": 123928,
+                    "Principle": "$22,291,666",
+                    "Market Value": "$22,291,666"
+                },
+                {
+                    "Security Name": "JYP Entertainment Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Media & Entertainment",
+                    "Country": "South Korea",
+                    "Number of Shares": 243974,
+                    "Principle": "$11,669,008",
+                    "Market Value": "$11,669,008"
+                },
+                {
+                    "Security Name": "KB Financial Group, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "South Korea",
+                    "Number of Shares": 451790,
+                    "Principle": "$24,503,706",
+                    "Market Value": "$24,503,706"
+                },
+                {
+                    "Security Name": "LG Electronics, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "South Korea",
+                    "Number of Shares": 271321,
+                    "Principle": "$18,070,554",
+                    "Market Value": "$18,070,554"
+                },
+                {
+                    "Security Name": "NCSoft Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Media & Entertainment",
+                    "Country": "South Korea",
+                    "Number of Shares": 37299,
+                    "Principle": "$4,712,742",
+                    "Market Value": "$4,712,742"
+                },
+                {
+                    "Security Name": "Orion Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "South Korea",
+                    "Number of Shares": 67563,
+                    "Principle": "$4,521,575",
+                    "Market Value": "$4,521,575"
+                },
+                {
+                    "Security Name": "Samsung Biologics Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "South Korea",
+                    "Number of Shares": 26638,
+                    "Principle": "$14,972,091",
+                    "Market Value": "$14,972,091"
+                },
+                {
+                    "Security Name": "Samsung E&A Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "South Korea",
+                    "Number of Shares": 470986,
+                    "Principle": "$8,929,576",
+                    "Market Value": "$8,929,576"
+                },
+                {
+                    "Security Name": "Samsung Electronics Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "South Korea",
+                    "Number of Shares": 3192490,
+                    "Principle": "$177,459,786",
+                    "Market Value": "$177,459,786"
+                },
+                {
+                    "Security Name": "Samsung SDI Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "South Korea",
+                    "Number of Shares": 53034,
+                    "Principle": "$16,412,388",
+                    "Market Value": "$16,412,388"
+                },
+                {
+                    "Security Name": "Chailease Holding Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "Taiwan",
+                    "Number of Shares": 3064589,
+                    "Principle": "$16,163,447",
+                    "Market Value": "$16,163,447"
+                },
+                {
+                    "Security Name": "Chroma ATE, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 1060000,
+                    "Principle": "$8,609,021",
+                    "Market Value": "$8,609,021"
+                },
+                {
+                    "Security Name": "Delta Electronics, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 2205000,
+                    "Principle": "$21,594,217",
+                    "Market Value": "$21,594,217"
+                },
+                {
+                    "Security Name": "Jentech Precision Industrial Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 465000,
+                    "Principle": "$13,834,870",
+                    "Market Value": "$13,834,870"
+                },
+                {
+                    "Security Name": "MediaTek Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 971000,
+                    "Principle": "$29,276,798",
+                    "Market Value": "$29,276,798"
+                },
+                {
+                    "Security Name": "Merida Industry Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Taiwan",
+                    "Number of Shares": 837000,
+                    "Principle": "$6,014,253",
+                    "Market Value": "$6,014,253"
+                },
+                {
+                    "Security Name": "Nien Made Enterprise Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Taiwan",
+                    "Number of Shares": 1272000,
+                    "Principle": "$14,865,047",
+                    "Market Value": "$14,865,047"
+                },
+                {
+                    "Security Name": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 10604883,
+                    "Principle": "$253,920,868",
+                    "Market Value": "$253,920,868"
+                },
+                {
+                    "Security Name": "Unimicron Technology Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 2627000,
+                    "Principle": "$14,527,378",
+                    "Market Value": "$14,527,378"
+                },
+                {
+                    "Security Name": "United Microelectronics Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 12775000,
+                    "Principle": "$19,627,804",
+                    "Market Value": "$19,627,804"
+                },
+                {
+                    "Security Name": "PTT Exploration & Production PCL",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "Thailand",
+                    "Number of Shares": 4159500,
+                    "Principle": "$17,400,422",
+                    "Market Value": "$17,400,422"
+                },
+                {
+                    "Security Name": "Abu Dhabi Islamic Bank PJSC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "United Arab Emirates",
+                    "Number of Shares": 2708564,
+                    "Principle": "$8,229,893",
+                    "Market Value": "$8,229,893"
+                },
+                {
+                    "Security Name": "GCC SAB de CV",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "United States",
+                    "Number of Shares": 777692,
+                    "Principle": "$8,851,591",
+                    "Market Value": "$8,851,591"
+                },
+                {
+                    "Security Name": "Samsonite International SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "United States",
+                    "Number of Shares": 5453700,
+                    "Principle": "$19,173,409",
+                    "Market Value": "$19,173,409"
+                }
+            ]
+        },
+        {
+            "Fund Name": "GOLDMAN SACHS EMERGING MARKETS EQUITY EX. CHINA FUND",
+            "Report Date": "2024-04-30",
+            "Schedule of Investments": [
+                {
+                    "Security Name": "Caixa Seguridade Participacoes SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "Brazil",
+                    "Number of Shares": 19200,
+                    "Principle": "$57,904",
+                    "Market Value": "$57,904"
+                },
+                {
+                    "Security Name": "Fleury SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 16400,
+                    "Principle": "$45,733",
+                    "Market Value": "$45,733"
+                },
+                {
+                    "Security Name": "MercadoLibre, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "Brazil",
+                    "Number of Shares": 119,
+                    "Principle": null,
+                    "Market Value": "$173,585"
+                },
+                {
+                    "Security Name": "NU Holdings Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Brazil",
+                    "Number of Shares": 7726,
+                    "Principle": null,
+                    "Market Value": "$83,904"
+                },
+                {
+                    "Security Name": "Odontoprev SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 5616,
+                    "Principle": "$12,924",
+                    "Market Value": "$12,924"
+                },
+                {
+                    "Security Name": "PRIO SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "Brazil",
+                    "Number of Shares": 5100,
+                    "Principle": "$47,144",
+                    "Market Value": "$47,144"
+                },
+                {
+                    "Security Name": "Raia Drogasil SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "Brazil",
+                    "Number of Shares": 13300,
+                    "Principle": "$65,519",
+                    "Market Value": "$65,519"
+                },
+                {
+                    "Security Name": "Rumo SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Transportation",
+                    "Country": "Brazil",
+                    "Number of Shares": 12100,
+                    "Principle": "$46,978",
+                    "Market Value": "$46,978"
+                },
+                {
+                    "Security Name": "Sao Martinho SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "Brazil",
+                    "Number of Shares": 7000,
+                    "Principle": "$38,541",
+                    "Market Value": "$38,541"
+                },
+                {
+                    "Security Name": "Sendas Distribuidora SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "Brazil",
+                    "Number of Shares": 32300,
+                    "Principle": "$81,612",
+                    "Market Value": "$81,612"
+                },
+                {
+                    "Security Name": "TIM SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 24900,
+                    "Principle": null,
+                    "Market Value": "$84,445"
+                },
+                {
+                    "Security Name": "TOTVS SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Software & Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 14300,
+                    "Principle": null,
+                    "Market Value": "$75,843"
+                },
+                {
+                    "Security Name": "Vivara Participacoes SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Brazil",
+                    "Number of Shares": 5900,
+                    "Principle": "$25,179",
+                    "Market Value": "$25,179"
+                },
+                {
+                    "Security Name": "Commercial International Bank - Egypt (CIB), GDR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Egypt",
+                    "Number of Shares": 19343,
+                    "Principle": null,
+                    "Market Value": "$28,666"
+                },
+                {
+                    "Security Name": "Hellenic Telecommunications Organization SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Greece",
+                    "Number of Shares": 3147,
+                    "Principle": null,
+                    "Market Value": "$47,808"
+                },
+                {
+                    "Security Name": "JUMBO SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "Greece",
+                    "Number of Shares": 2604,
+                    "Principle": null,
+                    "Market Value": "$81,091"
+                },
+                {
+                    "Security Name": "Mytilineos SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "Greece",
+                    "Number of Shares": 1053,
+                    "Principle": null,
+                    "Market Value": "$42,720"
+                },
+                {
+                    "Security Name": "National Bank of Greece SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Greece",
+                    "Number of Shares": 19853,
+                    "Principle": null,
+                    "Market Value": "$160,175"
+                },
+                {
+                    "Security Name": "Piraeus Financial Holdings SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Greece",
+                    "Number of Shares": 12049,
+                    "Principle": null,
+                    "Market Value": "$48,268"
+                },
+                {
+                    "Security Name": "Amber Enterprises India Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "India",
+                    "Number of Shares": 1209,
+                    "Principle": null,
+                    "Market Value": "$55,512"
+                },
+                {
+                    "Security Name": "Apollo Hospitals Enterprise Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "India",
+                    "Number of Shares": 1476,
+                    "Principle": null,
+                    "Market Value": "$104,981"
+                },
+                {
+                    "Security Name": "Axis Bank Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "India",
+                    "Number of Shares": 11422,
+                    "Principle": null,
+                    "Market Value": "$159,429"
+                },
+                {
+                    "Security Name": "Bajaj Finance Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "India",
+                    "Number of Shares": 804,
+                    "Principle": null,
+                    "Market Value": "$66,694"
+                },
+                {
+                    "Security Name": "Bharti Airtel Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Telecommunication Services",
+                    "Country": "India",
+                    "Number of Shares": 8988,
+                    "Principle": null,
+                    "Market Value": "$142,268"
+                },
+                {
+                    "Security Name": "CMS Info Systems Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Commercial & Professional Services",
+                    "Country": "India",
+                    "Number of Shares": 7741,
+                    "Principle": null,
+                    "Market Value": "$38,428"
+                },
+                {
+                    "Security Name": "Coforge Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Software & Services",
+                    "Country": "India",
+                    "Number of Shares": 1282,
+                    "Principle": null,
+                    "Market Value": "$78,066"
+                },
+                {
+                    "Security Name": "Computer Age Management Services Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Commercial & Professional Services",
+                    "Country": "India",
+                    "Number of Shares": 1731,
+                    "Principle": null,
+                    "Market Value": "$66,346"
+                },
+                {
+                    "Security Name": "Craftsman Automation Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "India",
+                    "Number of Shares": 824,
+                    "Principle": null,
+                    "Market Value": "$43,637"
+                },
+                {
+                    "Security Name": "Five-Star Business Finance Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "India",
+                    "Number of Shares": 5629,
+                    "Principle": null,
+                    "Market Value": "$51,057"
+                },
+                {
+                    "Security Name": "Godrej Consumer Products Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Household & Personal Products",
+                    "Country": "India",
+                    "Number of Shares": 7309,
+                    "Principle": null,
+                    "Market Value": "$106,671"
+                },
+                {
+                    "Security Name": "Godrej Properties Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Real Estate Management & Development",
+                    "Country": "India",
+                    "Number of Shares": 3136,
+                    "Principle": null,
+                    "Market Value": "$99,118"
+                },
+                {
+                    "Security Name": "Gokaldas Exports Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "India",
+                    "Number of Shares": 6243,
+                    "Principle": null,
+                    "Market Value": "$65,813"
+                },
+                {
+                    "Security Name": "Hindalco Industries Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "India",
+                    "Number of Shares": 16450,
+                    "Principle": null,
+                    "Market Value": "$126,513"
+                },
+                {
+                    "Security Name": "Home First Finance Co. India Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "India",
+                    "Number of Shares": 3306,
+                    "Principle": null,
+                    "Market Value": "$36,066"
+                },
+                {
+                    "Security Name": "ICICI Bank Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "India",
+                    "Number of Shares": 21844,
+                    "Principle": null,
+                    "Market Value": "$300,987"
+                },
+                {
+                    "Security Name": "Info Edge India Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Media & Entertainment",
+                    "Country": "India",
+                    "Number of Shares": 765,
+                    "Principle": null,
+                    "Market Value": "$55,328"
+                },
+                {
+                    "Security Name": "Infosys Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Software & Services",
+                    "Country": "India",
+                    "Number of Shares": 8021,
+                    "Principle": null,
+                    "Market Value": "$135,431"
+                },
+                {
+                    "Security Name": "Jio Financial Services Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "India",
+                    "Number of Shares": 18304,
+                    "Principle": null,
+                    "Market Value": "$82,426"
+                },
+                {
+                    "Security Name": "Kfin Technologies Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "India",
+                    "Number of Shares": 6249,
+                    "Principle": null,
+                    "Market Value": "$55,897"
+                },
+                {
+                    "Security Name": "Naarav Fluorine International Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "India",
+                    "Number of Shares": 1570,
+                    "Principle": null,
+                    "Market Value": "$64,171"
+                },
+                {
+                    "Security Name": "Netweb Technologies India Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "India",
+                    "Number of Shares": 2968,
+                    "Principle": null,
+                    "Market Value": "$59,365"
+                },
+                {
+                    "Security Name": "Reliance Industries Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "India",
+                    "Number of Shares": 2768,
+                    "Principle": null,
+                    "Market Value": "$97,169"
+                },
+                {
+                    "Security Name": "SBI Life Insurance Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "India",
+                    "Number of Shares": 4092,
+                    "Principle": "$70,400",
+                    "Market Value": "$70,400"
+                },
+                {
+                    "Security Name": "Sona BLW Precision Forgings Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "India",
+                    "Number of Shares": 8289,
+                    "Principle": "$61,960",
+                    "Market Value": "$61,960"
+                },
+                {
+                    "Security Name": "Sun Pharmaceutical Industries Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "India",
+                    "Number of Shares": 7909,
+                    "Principle": null,
+                    "Market Value": "$142,087"
+                },
+                {
+                    "Security Name": "Suven Pharmaceuticals Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "India",
+                    "Number of Shares": 5768,
+                    "Principle": null,
+                    "Market Value": "$45,492"
+                },
+                {
+                    "Security Name": "Tata Consumer Products Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "India",
+                    "Number of Shares": 12648,
+                    "Principle": null,
+                    "Market Value": "$167,488"
+                },
+                {
+                    "Security Name": "TeamLease Services Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Commercial & Professional Services",
+                    "Country": "India",
+                    "Number of Shares": 986,
+                    "Principle": null,
+                    "Market Value": "$39,124"
+                },
+                {
+                    "Security Name": "Samsung Electronics Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "South Korea",
+                    "Number of Shares": 16386,
+                    "Principle": "$910,843",
+                    "Market Value": "$910,843"
+                },
+                {
+                    "Security Name": "Samsung SDI Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "South Korea",
+                    "Number of Shares": 330,
+                    "Principle": "$102,125",
+                    "Market Value": "$102,125"
+                },
+                {
+                    "Security Name": "Chailease Holding Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "Taiwan",
+                    "Number of Shares": 18260,
+                    "Principle": "$96,308",
+                    "Market Value": "$96,308"
+                },
+                {
+                    "Security Name": "Chroma ATE, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 7000,
+                    "Principle": "$56,852",
+                    "Market Value": "$56,852"
+                },
+                {
+                    "Security Name": "Delta Electronics, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 14000,
+                    "Principle": "$137,106",
+                    "Market Value": "$137,106"
+                },
+                {
+                    "Security Name": "E Ink Holdings, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 7000,
+                    "Principle": "$44,753",
+                    "Market Value": "$44,753"
+                },
+                {
+                    "Security Name": "Jentech Precision Industrial Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 2000,
+                    "Principle": "$59,505",
+                    "Market Value": "$59,505"
+                },
+                {
+                    "Security Name": "MediaTek Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 6000,
+                    "Principle": "$180,907",
+                    "Market Value": "$180,907"
+                },
+                {
+                    "Security Name": "Nien Made Enterprise Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Taiwan",
+                    "Number of Shares": 6000,
+                    "Principle": "$70,118",
+                    "Market Value": "$70,118"
+                },
+                {
+                    "Security Name": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 62000,
+                    "Principle": "$1,484,514",
+                    "Market Value": "$1,484,514"
+                },
+                {
+                    "Security Name": "Unimicron Technology Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 19000,
+                    "Principle": "$105,070",
+                    "Market Value": "$105,070"
+                },
+                {
+                    "Security Name": "United Microelectronics Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 85000,
+                    "Principle": "$130,596",
+                    "Market Value": "$130,596"
+                },
+                {
+                    "Security Name": "Yageo Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 4000,
+                    "Principle": "$76,298",
+                    "Market Value": "$76,298"
+                },
+                {
+                    "Security Name": "Airports of Thailand PCL",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Transportation",
+                    "Country": "Thailand",
+                    "Number of Shares": 29400,
+                    "Principle": "$51,618",
+                    "Market Value": "$51,618"
+                },
+                {
+                    "Security Name": "Bangkok Dusit Medical Services PCL, Class F",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "Thailand",
+                    "Number of Shares": 87700,
+                    "Principle": "$68,483",
+                    "Market Value": "$68,483"
+                },
+                {
+                    "Security Name": "PTT Exploration & Production PCL",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "Thailand",
+                    "Number of Shares": 23900,
+                    "Principle": "$99,981",
+                    "Market Value": "$99,981"
+                },
+                {
+                    "Security Name": "Abu Dhabi Islamic Bank PJSC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "United Arab Emirates",
+                    "Number of Shares": 18193,
+                    "Principle": "$55,279",
+                    "Market Value": "$55,279"
+                },
+                {
+                    "Security Name": "ADNOC Drilling Co. PJSC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "United Arab Emirates",
+                    "Number of Shares": 69496,
+                    "Principle": "$73,036",
+                    "Market Value": "$73,036"
+                },
+                {
+                    "Security Name": "Emirates Central Cooling Systems Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Utilities",
+                    "Country": "United Arab Emirates",
+                    "Number of Shares": 63523,
+                    "Principle": "$27,499",
+                    "Market Value": "$27,499"
+                },
+                {
+                    "Security Name": "GCC SAB de CV",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "United States",
+                    "Number of Shares": 3952,
+                    "Principle": "$44,981",
+                    "Market Value": "$44,981"
+                },
+                {
+                    "Security Name": "Itau Unibanco Holding SA",
+                    "Security Type": "Preferred Stocks",
+                    "Sector": "Banks",
+                    "Country": "Brazil",
+                    "Number of Shares": 13500,
+                    "Principle": "$81,531",
+                    "Market Value": "$81,531"
+                },
+                {
+                    "Security Name": "Marcopolo SA",
+                    "Security Type": "Preferred Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "Brazil",
+                    "Number of Shares": 28560,
+                    "Principle": "$36,246",
+                    "Market Value": "$36,246"
+                }
+            ]
+        },
+        {
+            "Fund Name": "GOLDMAN SACHS ESG EMERGING MARKETS EQUITY FUND",
+            "Report Date": "2024-04-30",
+            "Schedule of Investments": [
+                {
+                    "Security Name": "Caixa Seguridade Participacoes SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "Brazil",
+                    "Number of Shares": 24263,
+                    "Principle": null,
+                    "Market Value": "$73,173"
+                },
+                {
+                    "Security Name": "Mercado Libre, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "Brazil",
+                    "Number of Shares": 296,
+                    "Principle": null,
+                    "Market Value": "$431,775"
+                },
+                {
+                    "Security Name": "NU Holdings Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Brazil",
+                    "Number of Shares": 16593,
+                    "Principle": null,
+                    "Market Value": "$180,200"
+                },
+                {
+                    "Security Name": "Raia Drogasil SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "Brazil",
+                    "Number of Shares": 18600,
+                    "Principle": null,
+                    "Market Value": "$91,628"
+                },
+                {
+                    "Security Name": "Rumo SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Transportation",
+                    "Country": "Brazil",
+                    "Number of Shares": 23300,
+                    "Principle": null,
+                    "Market Value": "$90,461"
+                },
+                {
+                    "Security Name": "TIM SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Brazil",
+                    "Number of Shares": 44300,
+                    "Principle": null,
+                    "Market Value": "$150,238"
+                },
+                {
+                    "Security Name": "Vivara Participacoes SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Brazil",
+                    "Number of Shares": 8900,
+                    "Principle": null,
+                    "Market Value": "$37,982"
+                },
+                {
+                    "Security Name": "Alibaba Group Holding Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "China",
+                    "Number of Shares": 77127,
+                    "Principle": null,
+                    "Market Value": "$722,145"
+                },
+                {
+                    "Security Name": "ANTTA Sports Products Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 24200,
+                    "Principle": null,
+                    "Market Value": "$273,968"
+                },
+                {
+                    "Security Name": "BYD Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Automobiles & Components",
+                    "Country": "China",
+                    "Number of Shares": 9000,
+                    "Principle": null,
+                    "Market Value": "$246,713"
+                },
+                {
+                    "Security Name": "China Merchants Bank Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "China",
+                    "Number of Shares": 103500,
+                    "Principle": null,
+                    "Market Value": "$448,244"
+                },
+                {
+                    "Security Name": "China Yangtze Power Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Utilities",
+                    "Country": "China",
+                    "Number of Shares": 38099,
+                    "Principle": null,
+                    "Market Value": "$135,458"
+                },
+                {
+                    "Security Name": "Contemporary Amperex Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 9960,
+                    "Principle": null,
+                    "Market Value": "$278,099"
+                },
+                {
+                    "Security Name": "KE Holdings, Inc. ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Real Estate Management & Development",
+                    "Country": "China",
+                    "Number of Shares": 11251,
+                    "Principle": null,
+                    "Market Value": "$170,115"
+                },
+                {
+                    "Security Name": "Meituan, Class B",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Services",
+                    "Country": "China",
+                    "Number of Shares": 27700,
+                    "Principle": null,
+                    "Market Value": "$378,230"
+                },
+                {
+                    "Security Name": "Midea Group Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 20000,
+                    "Principle": null,
+                    "Market Value": "$192,021"
+                },
+                {
+                    "Security Name": "NARI Technology Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 37900,
+                    "Principle": null,
+                    "Market Value": "$122,370"
+                },
+                {
+                    "Security Name": "PICC Property & Casualty Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "China",
+                    "Number of Shares": 118000,
+                    "Principle": null,
+                    "Market Value": "$146,601"
+                },
+                {
+                    "Security Name": "Ping An Insurance Group Co. of China Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "China",
+                    "Number of Shares": 54500,
+                    "Principle": null,
+                    "Market Value": "$246,999"
+                },
+                {
+                    "Security Name": "Shenzhen Mindraay Bio-Medical Electronics Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "China",
+                    "Number of Shares": 4500,
+                    "Principle": null,
+                    "Market Value": "$188,626"
+                },
+                {
+                    "Security Name": "Shenzhou International Group Holdings Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "China",
+                    "Number of Shares": 23700,
+                    "Principle": null,
+                    "Market Value": "$232,952"
+                },
+                {
+                    "Security Name": "Silergy Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 14000,
+                    "Principle": null,
+                    "Market Value": "$185,936"
+                },
+                {
+                    "Security Name": "Tencent Holdings Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Media & Entertainment",
+                    "Country": "China",
+                    "Number of Shares": 34800,
+                    "Principle": null,
+                    "Market Value": "$1,527,135"
+                },
+                {
+                    "Security Name": "Tencent Music Entertainment Group ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Media & Entertainment",
+                    "Country": "China",
+                    "Number of Shares": 7865,
+                    "Principle": null,
+                    "Market Value": "$98,706"
+                },
+                {
+                    "Security Name": "Weichai Power Co. Ltd., Class H",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 94000,
+                    "Principle": null,
+                    "Market Value": "$192,076"
+                },
+                {
+                    "Security Name": "Will Semiconductor Co. Ltd. Shanghai, Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "China",
+                    "Number of Shares": 12900,
+                    "Principle": null,
+                    "Market Value": "$179,949"
+                },
+                {
+                    "Security Name": "Yunnan Aluminium Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "China",
+                    "Number of Shares": 138800,
+                    "Principle": null,
+                    "Market Value": "$273,420"
+                },
+                {
+                    "Security Name": "Zhejiang Sanhua Intelligent Controls Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "China",
+                    "Number of Shares": 39550,
+                    "Principle": null,
+                    "Market Value": "$119,187"
+                },
+                {
+                    "Security Name": "Zhongji Innolight Co. Ltd., Class A",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "China",
+                    "Number of Shares": 6300,
+                    "Principle": null,
+                    "Market Value": "$158,529"
+                },
+                {
+                    "Security Name": "ZTO Express Cayman, Inc. ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Transportation",
+                    "Country": "China",
+                    "Number of Shares": 8227,
+                    "Principle": null,
+                    "Market Value": "$172,685"
+                },
+                {
+                    "Security Name": "Commercial International Bank - Egypt (CIB), GDR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Egypt",
+                    "Number of Shares": 88619,
+                    "Principle": null,
+                    "Market Value": "$131,333"
+                },
+                {
+                    "Security Name": "JUMBO SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "Greece",
+                    "Number of Shares": 6048,
+                    "Principle": null,
+                    "Market Value": "$188,340"
+                },
+                {
+                    "Security Name": "Mytilineos SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "Greece",
+                    "Number of Shares": 1816,
+                    "Principle": null,
+                    "Market Value": "$73,675"
+                },
+                {
+                    "Security Name": "National Bank of Greece SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Greece",
+                    "Number of Shares": 39893,
+                    "Principle": null,
+                    "Market Value": "$321,858"
+                },
+                {
+                    "Security Name": "Piraeus Financial Holdings SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Greece",
+                    "Number of Shares": 15706,
+                    "Principle": null,
+                    "Market Value": "$62,918"
+                },
+                {
+                    "Security Name": "Hong Kong Exchanges & Clearing Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 3567,
+                    "Principle": null,
+                    "Market Value": "$113,339"
+                },
+                {
+                    "Security Name": "Apollo Hospitals Enterprise Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "India",
+                    "Number of Shares": 3780,
+                    "Principle": null,
+                    "Market Value": "$268,853"
+                },
+                {
+                    "Security Name": "Axis Bank Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "India",
+                    "Number of Shares": 22968,
+                    "Principle": null,
+                    "Market Value": "$320,590"
+                },
+                {
+                    "Security Name": "Bajaj Finance Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "India",
+                    "Number of Shares": 2866,
+                    "Principle": null,
+                    "Market Value": "$237,741"
+                },
+                {
+                    "Security Name": "Godrej Properties Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Real Estate Management & Development",
+                    "Country": "India",
+                    "Number of Shares": 7147,
+                    "Principle": null,
+                    "Market Value": "$225,891"
+                },
+                {
+                    "Security Name": "ICICI Bank Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "India",
+                    "Number of Shares": 51729,
+                    "Principle": null,
+                    "Market Value": "$712,771"
+                },
+                {
+                    "Security Name": "Info Edge India Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Media & Entertainment",
+                    "Country": "India",
+                    "Number of Shares": 2821,
+                    "Principle": null,
+                    "Market Value": "$204,025"
+                },
+                {
+                    "Security Name": "Infosys Ltd. ADR",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Software & Services",
+                    "Country": "India",
+                    "Number of Shares": 16999,
+                    "Principle": null,
+                    "Market Value": "$284,053"
+                },
+                {
+                    "Security Name": "Jio Financial Services Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "India",
+                    "Number of Shares": 60554,
+                    "Principle": null,
+                    "Market Value": "$272,684"
+                },
+                {
+                    "Security Name": "SBI Life Insurance Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "India",
+                    "Number of Shares": 15575,
+                    "Principle": null,
+                    "Market Value": "$267,959"
+                },
+                {
+                    "Security Name": "Sona Biln Precision Forgings Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Automobiles & Components",
+                    "Country": "India",
+                    "Number of Shares": 19235,
+                    "Principle": null,
+                    "Market Value": "$143,780"
+                },
+                {
+                    "Security Name": "Sun Pharmaceutical Industries Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "India",
+                    "Number of Shares": 15169,
+                    "Principle": null,
+                    "Market Value": "$272,514"
+                },
+                {
+                    "Security Name": "Tata Consumer Products Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "India",
+                    "Number of Shares": 43165,
+                    "Principle": null,
+                    "Market Value": "$571,602"
+                },
+                {
+                    "Security Name": "Zomato Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Services",
+                    "Country": "India",
+                    "Number of Shares": 269124,
+                    "Principle": null,
+                    "Market Value": "$621,119"
+                },
+                {
+                    "Security Name": "Bank Central Asia Tbk PT",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Indonesia",
+                    "Number of Shares": 860800,
+                    "Principle": null,
+                    "Market Value": "$517,586"
+                },
+                {
+                    "Security Name": "Alsea SAB de CV",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Services",
+                    "Country": "Mexico",
+                    "Number of Shares": 57500,
+                    "Principle": null,
+                    "Market Value": "$240,865"
+                },
+                {
+                    "Security Name": "America Movil SAB de CV, Series B",
+                    "Security Type": "Common Stock",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Mexico",
+                    "Number of Shares": 123400,
+                    "Principle": null,
+                    "Market Value": "$117,488"
+                },
+                {
+                    "Security Name": "Arca Continental SAB de CV",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "Mexico",
+                    "Number of Shares": 22899,
+                    "Principle": null,
+                    "Market Value": "$223,392"
+                },
+                {
+                    "Security Name": "Bancodel Bajio SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Mexico",
+                    "Number of Shares": 23400,
+                    "Principle": null,
+                    "Market Value": "$86,274"
+                },
+                {
+                    "Security Name": "Prologis Property Mexico SA de CV REIT",
+                    "Security Type": "Common Stock",
+                    "Sector": "Equity Real Estate Investment Trusts (REITs)",
+                    "Country": "Mexico",
+                    "Number of Shares": 34180,
+                    "Principle": null,
+                    "Market Value": "$134,799"
+                },
+                {
+                    "Security Name": "Wal-Mart de Mexico SAB de CV",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "Mexico",
+                    "Number of Shares": 46201,
+                    "Principle": null,
+                    "Market Value": "$172,390"
+                },
+                {
+                    "Security Name": "Credicorp Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Peru",
+                    "Number of Shares": 1057,
+                    "Principle": null,
+                    "Market Value": "$175,050"
+                },
+                {
+                    "Security Name": "BDO Unibank, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Philippines",
+                    "Number of Shares": 42110,
+                    "Principle": null,
+                    "Market Value": "$108,030"
+                },
+                {
+                    "Security Name": "Jollibee Foods Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Services",
+                    "Country": "Philippines",
+                    "Number of Shares": 10250,
+                    "Principle": null,
+                    "Market Value": "$41,677"
+                },
+                {
+                    "Security Name": "Monde Nissin Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "Philippines",
+                    "Number of Shares": 1046300,
+                    "Principle": null,
+                    "Market Value": "$192,943"
+                },
+                {
+                    "Security Name": "Societatea De Producere AEnergiei Electricein Hidrocentrale Hidroelectrica SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Utilities",
+                    "Country": "Romania",
+                    "Number of Shares": 4286,
+                    "Principle": null,
+                    "Market Value": "$123,804"
+                },
+                {
+                    "Security Name": "Detskkky Mir PJSC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Discretionary Distribution & Retail",
+                    "Country": "Russia",
+                    "Number of Shares": 96162,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Renaissance Insurance Group JSC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "Russia",
+                    "Number of Shares": 16753,
+                    "Principle": null,
+                    "Market Value": null
+                },
+                {
+                    "Security Name": "Alinma Bank",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Saudi Arabia",
+                    "Number of Shares": 19681,
+                    "Principle": null,
+                    "Market Value": "$174,581"
+                },
+                {
+                    "Security Name": "Co.for Cooperative Insurance (The)",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "Saudi Arabia",
+                    "Number of Shares": 4794,
+                    "Principle": null,
+                    "Market Value": "$190,262"
+                },
+                {
+                    "Security Name": "Saudi National Bank (The)",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Saudi Arabia",
+                    "Number of Shares": 10213,
+                    "Principle": null,
+                    "Market Value": "$102,237"
+                },
+                {
+                    "Security Name": "Clicks Group Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "South Africa",
+                    "Number of Shares": 19775,
+                    "Principle": null,
+                    "Market Value": "$306,303"
+                },
+                {
+                    "Security Name": "Old Mutual Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "South Africa",
+                    "Number of Shares": 199575,
+                    "Principle": null,
+                    "Market Value": "$116,853"
+                },
+                {
+                    "Security Name": "Hyundai Motor Co.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Automobiles & Components",
+                    "Country": "South Korea",
+                    "Number of Shares": 1104,
+                    "Principle": null,
+                    "Market Value": "$198,583"
+                },
+                {
+                    "Security Name": "KB Financial Group, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "South Korea",
+                    "Number of Shares": 4327,
+                    "Principle": null,
+                    "Market Value": "$234,683"
+                },
+                {
+                    "Security Name": "LG Electronics, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "South Korea",
+                    "Number of Shares": 3087,
+                    "Principle": null,
+                    "Market Value": "$205,601"
+                },
+                {
+                    "Security Name": "NC Soft Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Media & Entertainment",
+                    "Country": "South Korea",
+                    "Number of Shares": 462,
+                    "Principle": null,
+                    "Market Value": "$58,374"
+                },
+                {
+                    "Security Name": "Orion Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "South Korea",
+                    "Number of Shares": 569,
+                    "Principle": null,
+                    "Market Value": "$38,080"
+                },
+                {
+                    "Security Name": "Samsung Electronics Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "South Korea",
+                    "Number of Shares": 27987,
+                    "Principle": null,
+                    "Market Value": "$1,555,703"
+                },
+                {
+                    "Security Name": "Samsung SDI Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "South Korea",
+                    "Number of Shares": 581,
+                    "Principle": null,
+                    "Market Value": "$179,801"
+                },
+                {
+                    "Security Name": "Chailease Holding Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Financial Services",
+                    "Country": "Taiwan",
+                    "Number of Shares": 37731,
+                    "Principle": null,
+                    "Market Value": "$199,003"
+                },
+                {
+                    "Security Name": "Delta Electronics, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 25000,
+                    "Principle": null,
+                    "Market Value": "$244,833"
+                },
+                {
+                    "Security Name": "MediaTek, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 13000,
+                    "Principle": null,
+                    "Market Value": "$391,965"
+                },
+                {
+                    "Security Name": "Nien Made Enterprise Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Taiwan",
+                    "Number of Shares": 13000,
+                    "Principle": null,
+                    "Market Value": "$151,923"
+                },
+                {
+                    "Security Name": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 98000,
+                    "Principle": null,
+                    "Market Value": "$2,346,489"
+                },
+                {
+                    "Security Name": "Unimicron Technology Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 30000,
+                    "Principle": null,
+                    "Market Value": "$165,901"
+                },
+                {
+                    "Security Name": "United Microelectronics Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 130000,
+                    "Principle": null,
+                    "Market Value": "$199,735"
+                },
+                {
+                    "Security Name": "Abu Dhabi Islamic Bank PJSC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "United Arab Emirates",
+                    "Number of Shares": 22869,
+                    "Principle": null,
+                    "Market Value": "$69,487"
+                }
+            ]
+        },
+        {
+            "Fund Name": "GOLDMAN SACHS INTERNATIONAL EQUITY ESG FUND",
+            "Report Date": "2024-04-30",
+            "Schedule of Investments": [
+                {
+                    "Security Name": "Noovo Nordisk A/S, Class B",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "Denmark",
+                    "Number of Shares": 132148,
+                    "Principle": null,
+                    "Market Value": "$16,946,965"
+                },
+                {
+                    "Security Name": "Neste OYJ",
+                    "Security Type": "Common Stock",
+                    "Sector": "Energy",
+                    "Country": "Finland",
+                    "Number of Shares": 1417179,
+                    "Principle": null,
+                    "Market Value": "$32,126,204"
+                },
+                {
+                    "Security Name": "BNP Paribas SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "France",
+                    "Number of Shares": 644269,
+                    "Principle": null,
+                    "Market Value": "$46,362,815"
+                },
+                {
+                    "Security Name": "Vinci SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "France",
+                    "Number of Shares": 276260,
+                    "Principle": null,
+                    "Market Value": "$32,371,074"
+                },
+                {
+                    "Security Name": "Infineon Technologies AG",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Germany",
+                    "Number of Shares": 931536,
+                    "Principle": null,
+                    "Market Value": "$32,327,133"
+                },
+                {
+                    "Security Name": "AIA Group Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "Hong Kong",
+                    "Number of Shares": 4472400,
+                    "Principle": null,
+                    "Market Value": "$32,757,459"
+                },
+                {
+                    "Security Name": "Moncler SpA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "Italy",
+                    "Number of Shares": 327600,
+                    "Principle": null,
+                    "Market Value": "$22,303,721"
+                },
+                {
+                    "Security Name": "Hoooya Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Health Care Equipment & Services",
+                    "Country": "Japan",
+                    "Number of Shares": 189600,
+                    "Principle": null,
+                    "Market Value": "$21,982,191"
+                },
+                {
+                    "Security Name": "Keyence Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Japan",
+                    "Number of Shares": 62200,
+                    "Principle": null,
+                    "Market Value": "$27,353,685"
+                },
+                {
+                    "Security Name": "Nomura Research Institute Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Software & Services",
+                    "Country": "Japan",
+                    "Number of Shares": 1206600,
+                    "Principle": null,
+                    "Market Value": "$29,197,184"
+                },
+                {
+                    "Security Name": "ORIX Corp.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Financial Services",
+                    "Country": "Japan",
+                    "Number of Shares": 1856100,
+                    "Principle": null,
+                    "Market Value": "$37,985,860"
+                },
+                {
+                    "Security Name": "Shiseido Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Household & Personal Products",
+                    "Country": "Japan",
+                    "Number of Shares": 658400,
+                    "Principle": null,
+                    "Market Value": "$17,624,221"
+                },
+                {
+                    "Security Name": "Sumitomo Mitsui Financial Group, Inc.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Japan",
+                    "Number of Shares": 707000,
+                    "Principle": null,
+                    "Market Value": "$40,160,296"
+                },
+                {
+                    "Security Name": "Takeda Pharmaceutical Co. Ltd.",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "Japan",
+                    "Number of Shares": 1250473,
+                    "Principle": null,
+                    "Market Value": "$32,865,021"
+                },
+                {
+                    "Security Name": "Aalberts NV",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "Netherlands",
+                    "Number of Shares": 624383,
+                    "Principle": null,
+                    "Market Value": "$29,686,805"
+                },
+                {
+                    "Security Name": "Koninklijke Ahold Delhaize NV",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "Netherlands",
+                    "Number of Shares": 1449277,
+                    "Principle": null,
+                    "Market Value": "$43,991,631"
+                },
+                {
+                    "Security Name": "Banco Bilbao Vizcaya Argentaria SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Banks",
+                    "Country": "Spain",
+                    "Number of Shares": 3022776,
+                    "Principle": null,
+                    "Market Value": "$32,688,225"
+                },
+                {
+                    "Security Name": "Cellnex Telecom SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Spain",
+                    "Number of Shares": 963411,
+                    "Principle": null,
+                    "Market Value": "$31,845,271"
+                },
+                {
+                    "Security Name": "Iberdrola SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Utilities",
+                    "Country": "Spain",
+                    "Number of Shares": 3815481,
+                    "Principle": null,
+                    "Market Value": "$46,783,835"
+                },
+                {
+                    "Security Name": "Hexagon AB, Class B",
+                    "Security Type": "Common Stock",
+                    "Sector": "Technology Hardware & Equipment",
+                    "Country": "Sweden",
+                    "Number of Shares": 2385482,
+                    "Principle": null,
+                    "Market Value": "$24,954,464"
+                },
+                {
+                    "Security Name": "DSM-Firmenich AG",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "Switzerland",
+                    "Number of Shares": 192258,
+                    "Principle": null,
+                    "Market Value": "$21,562,609"
+                },
+                {
+                    "Security Name": "Lonza Group AG",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "Switzerland",
+                    "Number of Shares": 38043,
+                    "Principle": null,
+                    "Market Value": "$20,999,495"
+                },
+                {
+                    "Security Name": "UBS Group AG",
+                    "Security Type": "Common Stock",
+                    "Sector": "Financial Services",
+                    "Country": "Switzerland",
+                    "Number of Shares": 721078,
+                    "Principle": null,
+                    "Market Value": "$18,937,875"
+                },
+                {
+                    "Security Name": "Zurich Insurance Group AG",
+                    "Security Type": "Common Stock",
+                    "Sector": "Insurance",
+                    "Country": "Switzerland",
+                    "Number of Shares": 90254,
+                    "Principle": null,
+                    "Market Value": "$43,687,121"
+                },
+                {
+                    "Security Name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+                    "Security Type": "Common Stock",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 157648,
+                    "Principle": null,
+                    "Market Value": "$21,651,376"
+                },
+                {
+                    "Security Name": "Ashtead Group PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 432257,
+                    "Principle": null,
+                    "Market Value": "$31,387,002"
+                },
+                {
+                    "Security Name": "AstraZeneca PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 287647,
+                    "Principle": null,
+                    "Market Value": "$43,506,313"
+                },
+                {
+                    "Security Name": "Compass Group PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Consumer Services",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 400542,
+                    "Principle": null,
+                    "Market Value": "$11,140,567"
+                },
+                {
+                    "Security Name": "DSSmith PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Materials",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 5819419,
+                    "Principle": null,
+                    "Market Value": "$25,352,483"
+                },
+                {
+                    "Security Name": "RELX PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Commercial & Professional Services",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 785118,
+                    "Principle": null,
+                    "Market Value": "$32,258,054"
+                },
+                {
+                    "Security Name": "Rentokil Initial PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Commercial & Professional Services",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 5544419,
+                    "Principle": null,
+                    "Market Value": "$27,988,083"
+                },
+                {
+                    "Security Name": "Experian PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Commercial & Professional Services",
+                    "Country": "United States",
+                    "Number of Shares": 558369,
+                    "Principle": null,
+                    "Market Value": "$22,521,227"
+                },
+                {
+                    "Security Name": "Ferguson PLC",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "United States",
+                    "Number of Shares": 115402,
+                    "Principle": null,
+                    "Market Value": "$24,333,189"
+                },
+                {
+                    "Security Name": "Nestle SA",
+                    "Security Type": "Common Stock",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "United States",
+                    "Number of Shares": 431656,
+                    "Principle": null,
+                    "Market Value": "$43,338,348"
+                },
+                {
+                    "Security Name": "Schneider Electric SE",
+                    "Security Type": "Common Stock",
+                    "Sector": "Capital Goods",
+                    "Country": "United States",
+                    "Number of Shares": 141423,
+                    "Principle": null,
+                    "Market Value": "$32,246,342"
+                }
+            ]
+        },
+        {
+            "Fund Name": "GOLDMAN SACHS INTERNATIONAL EQUITY INCOME FUND",
+            "Report Date": "2024-04-30",
+            "Schedule of Investments": [
+                {
+                    "Security Name": "Rio Tinto PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "Australia",
+                    "Number of Shares": 930611,
+                    "Principle": null,
+                    "Market Value": "$62,965,873"
+                },
+                {
+                    "Security Name": "Transurban Group",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Transportation",
+                    "Country": "Australia",
+                    "Number of Shares": 2767487,
+                    "Principle": null,
+                    "Market Value": "$22,218,665"
+                },
+                {
+                    "Security Name": "Novo Nordisk A/S, Class B",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "Denmark",
+                    "Number of Shares": 161406,
+                    "Principle": null,
+                    "Market Value": "$20,699,078"
+                },
+                {
+                    "Security Name": "BNP Paribas SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "France",
+                    "Number of Shares": 690821,
+                    "Principle": null,
+                    "Market Value": "$49,712,785"
+                },
+                {
+                    "Security Name": "Gecina SA REIT",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Equity Real Estate Investment Trusts (REITs)",
+                    "Country": "France",
+                    "Number of Shares": 232511,
+                    "Principle": null,
+                    "Market Value": "$23,739,794"
+                },
+                {
+                    "Security Name": "LVMH Moet Hennessy Louis Vuitton SE",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Durables & Apparel",
+                    "Country": "France",
+                    "Number of Shares": 51273,
+                    "Principle": null,
+                    "Market Value": "$42,117,527"
+                },
+                {
+                    "Security Name": "Societe Generale SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "France",
+                    "Number of Shares": 1041049,
+                    "Principle": null,
+                    "Market Value": "$28,051,131"
+                },
+                {
+                    "Security Name": "Vinci SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "France",
+                    "Number of Shares": 380121,
+                    "Principle": null,
+                    "Market Value": "$44,541,103"
+                },
+                {
+                    "Security Name": "Deutsche Telekom AG",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Germany",
+                    "Number of Shares": 1185043,
+                    "Principle": null,
+                    "Market Value": "$27,144,094"
+                },
+                {
+                    "Security Name": "Enel SpA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Utilities",
+                    "Country": "Italy",
+                    "Number of Shares": 4391833,
+                    "Principle": null,
+                    "Market Value": "$28,865,068"
+                },
+                {
+                    "Security Name": "UniCredit SpA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Italy",
+                    "Number of Shares": 379744,
+                    "Principle": null,
+                    "Market Value": "$13,938,269"
+                },
+                {
+                    "Security Name": "ORIX Corp.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "Japan",
+                    "Number of Shares": 2276700,
+                    "Principle": null,
+                    "Market Value": "$46,593,613"
+                },
+                {
+                    "Security Name": "Sumitomo Mitsui Financial Group, Inc.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Japan",
+                    "Number of Shares": 761400,
+                    "Principle": null,
+                    "Market Value": "$43,250,424"
+                },
+                {
+                    "Security Name": "Takeda Pharmaceutical Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "Japan",
+                    "Number of Shares": 842700,
+                    "Principle": null,
+                    "Market Value": "$22,147,902"
+                },
+                {
+                    "Security Name": "Tokyo Electron Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Japan",
+                    "Number of Shares": 111700,
+                    "Principle": null,
+                    "Market Value": "$24,500,939"
+                },
+                {
+                    "Security Name": "Koninklijke Ahold Delhaize NV",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Consumer Staples Distribution & Retail",
+                    "Country": "Netherlands",
+                    "Number of Shares": 1895071,
+                    "Principle": null,
+                    "Market Value": "$57,523,347"
+                },
+                {
+                    "Security Name": "Koninklijke KPN NV",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Telecommunication Services",
+                    "Country": "Netherlands",
+                    "Number of Shares": 7500237,
+                    "Principle": null,
+                    "Market Value": "$27,256,865"
+                },
+                {
+                    "Security Name": "DBS Group Holdings Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Singapore",
+                    "Number of Shares": 1175350,
+                    "Principle": null,
+                    "Market Value": "$29,921,365"
+                },
+                {
+                    "Security Name": "Singapore Exchange Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Financial Services",
+                    "Country": "Singapore",
+                    "Number of Shares": 3487900,
+                    "Principle": null,
+                    "Market Value": "$23,792,798"
+                },
+                {
+                    "Security Name": "Banco Bilbao Vizcaya Argentaria SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "Spain",
+                    "Number of Shares": 2096393,
+                    "Principle": null,
+                    "Market Value": "$22,670,342"
+                },
+                {
+                    "Security Name": "Iberdrola SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Utilities",
+                    "Country": "Spain",
+                    "Number of Shares": 4162225,
+                    "Principle": null,
+                    "Market Value": "$51,035,466"
+                },
+                {
+                    "Security Name": "DSM-Firmenich AG",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "Switzerland",
+                    "Number of Shares": 267457,
+                    "Principle": null,
+                    "Market Value": "$29,996,519"
+                },
+                {
+                    "Security Name": "Zurich Insurance Group AG",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "Switzerland",
+                    "Number of Shares": 85479,
+                    "Principle": null,
+                    "Market Value": "$41,375,800"
+                },
+                {
+                    "Security Name": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Semiconductors & Semiconductor Equipment",
+                    "Country": "Taiwan",
+                    "Number of Shares": 1167000,
+                    "Principle": null,
+                    "Market Value": "$27,942,378"
+                },
+                {
+                    "Security Name": "AstraZeneca PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 395298,
+                    "Principle": null,
+                    "Market Value": "$59,788,416"
+                },
+                {
+                    "Security Name": "Coca-Cola Europacific Partners PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 594619,
+                    "Principle": null,
+                    "Market Value": "$42,824,460"
+                },
+                {
+                    "Security Name": "DS Smith PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Materials",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 10006306,
+                    "Principle": null,
+                    "Market Value": "$43,592,789"
+                },
+                {
+                    "Security Name": "HSBC Holdings PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Banks",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 5384793,
+                    "Principle": null,
+                    "Market Value": "$46,675,141"
+                },
+                {
+                    "Security Name": "National Grid PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Utilities",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 3172394,
+                    "Principle": null,
+                    "Market Value": "$41,612,812"
+                },
+                {
+                    "Security Name": "Unilever PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Household & Personal Products",
+                    "Country": "United Kingdom",
+                    "Number of Shares": 515356,
+                    "Principle": null,
+                    "Market Value": "$26,659,785"
+                },
+                {
+                    "Security Name": "BP PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "United States",
+                    "Number of Shares": 8702337,
+                    "Principle": null,
+                    "Market Value": "$56,092,117"
+                },
+                {
+                    "Security Name": "Ferguson PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "United States",
+                    "Number of Shares": 192539,
+                    "Principle": null,
+                    "Market Value": "$40,597,978"
+                },
+                {
+                    "Security Name": "Nestle SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Food, Beverage & Tobacco",
+                    "Country": "United States",
+                    "Number of Shares": 432524,
+                    "Principle": null,
+                    "Market Value": "$43,425,495"
+                },
+                {
+                    "Security Name": "Sanofi SA",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Pharmaceuticals, Biotechnology & Life Sciences",
+                    "Country": "United States",
+                    "Number of Shares": 435027,
+                    "Principle": null,
+                    "Market Value": "$42,977,651"
+                },
+                {
+                    "Security Name": "Schneider Electric SE",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Capital Goods",
+                    "Country": "United States",
+                    "Number of Shares": 123988,
+                    "Principle": null,
+                    "Market Value": "$28,270,929"
+                },
+                {
+                    "Security Name": "Shell PLC",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Energy",
+                    "Country": "United States",
+                    "Number of Shares": 1955779,
+                    "Principle": null,
+                    "Market Value": "$69,525,249"
+                },
+                {
+                    "Security Name": "Swiss Re AG",
+                    "Security Type": "Common Stocks",
+                    "Sector": "Insurance",
+                    "Country": "United States",
+                    "Number of Shares": 225456,
+                    "Principle": null,
+                    "Market Value": "$24,508,286"
+                }
+            ]
+        }
+    ]
+}

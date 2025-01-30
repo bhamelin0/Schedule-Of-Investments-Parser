@@ -67,28 +67,38 @@ def constructScheduleOfInvestmentData(configFile):
 
     # Determine pages that are schedule of investments, or are continued schedule of investments
     investmentPages = []
-    processedReport = reportText
 
     # Reduce pages to pages marked as Schedule of Investment or other important keywords in the header
     # To prevent file inconsistencies, remove all whitespace and compare as lowercase
     for page in pdf.pages:
         pageHeaderText = extractPageHeaderText(page, headerHeight)
-        processedPageText = pageHeaderText.replace(" ", "").lower()
+        processedPageHeader = pageHeaderText.replace(" ", "").lower()
 
         isContinued = False
-        if investmentContinuePageTarget in processedPageText:
+
+        # Ensure we track whether this is a continued page and needs to be combined into the prior page(s)
+        if investmentContinuePageTarget in processedPageHeader:
             isContinued = True
 
-        if investmentPageTarget in processedPageText:
-            investmentPages.append((pageHeaderText + extractPageBodyText(page, headerHeight, footerHeight, columnCount) + extractPageFooterText(page, footerHeight), isContinued)) 
-    
+        if investmentPageTarget in processedPageHeader:
+            pageText = pageHeaderText + extractPageBodyText(page, headerHeight, footerHeight, columnCount)
+
+            if footerHeight:
+                pageText += extractPageFooterText(page, footerHeight)
+            
+            investmentPages.append((pageText, isContinued))
+
+    print("PDF text extracted.")
     return investmentPages
 
 # OpenAI Integration to parse extracted text
+# TODO: This could be modified to make all calls async to speed up output time. 
 def parseInvestmentThroughAPI(investmentPages, client):
     # Loop through funds, extracting key datapoints
     scheduleOfInvestmentsList = [] # An array of funds found within this document
  
+    print("Parsing Schedule of Investment documents.")
+    print(f"\r0/{len(investmentPages)} parsed...", end='', flush=True)
     for index, scheduleOfInvestment in enumerate(investmentPages):
         response = client.chat.completions.create(
             messages=[
@@ -148,15 +158,13 @@ def parseInvestmentThroughAPI(investmentPages, client):
             response_format = { "type": "json_object" }
         )
 
+
         jsonResponse = response.choices[0].message.content
         responseDict = json.loads(jsonResponse)
 
         if investmentPages[index][1]: # This is a continued page - Fold it into the last object
             parentDict = scheduleOfInvestmentsList[len(scheduleOfInvestmentsList) - 1] 
-
-            # Fold the original dict into the updated dict to prevent overwrites
-            responseDict.update(parentDict)
-            scheduleOfInvestmentsList[len(scheduleOfInvestmentsList) - 1] = responseDict
+            parentDict['Schedule of Investments'].extend(responseDict['Schedule of Investments'])
         else:
             scheduleOfInvestmentsList.append(responseDict)
 
@@ -167,11 +175,11 @@ def parseInvestmentThroughAPI(investmentPages, client):
 # Pretty print based on configuration
 def outputScheduleInvestmentJson(scheduleOfInvestmentsList, outputFile):
     # Output result to file or console
-    completeJson = json.dumps({ "funds": scheduleOfInvestmentsList })
+    completeJson = json.dumps({ "funds": scheduleOfInvestmentsList }, indent=4)
 
     if outputFile:
         f = open(outputFile, "w")
-        f.write(json.dumps(completeJson, indent=4))
+        f.write(completeJson)
         f.close()
         print(f"JSON results written to {outputFile}")
     else:
