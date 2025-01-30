@@ -5,11 +5,12 @@ Schedule Of Investments Parser
 ## Description
 
 A python script to analyze mutual fund PDF releases and convert core points into JSON.
-See the /examples folder for examples of input and output.
+See the /examples folder for examples of input, configuration, and output.
 
 ### Dependencies
 
-Ensure uv is installed to retrieve dependencies: `pip install uv`
+Ensure uv is installed to retrieve dependencies: `pip install uv`.
+
 Install remaining dependencies with `uv sync`
 
 ### Installing
@@ -17,7 +18,7 @@ Install remaining dependencies with `uv sync`
 This project requires an OpenAI API key to run.
 This can be configured by adding a `.env` file to root.
 ```
-API_KEY = "{Your_Api_Key}".
+API_KEY = "{Your_Api_Key}"
 ```
 ### Configuration
 
@@ -36,7 +37,7 @@ a UI including a view of the page will allow easy adjustment of this configurati
 
 ### Executing program
 
-* To run the parser, call `py .\parser.py` configuration.ini outputfile.json
+* To run the parser, call `py .\parser.py configuration.ini outputfile.json`
 
 To run this on an existing example file:
 ```
