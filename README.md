@@ -1,6 +1,4 @@
-# Project Title
-
-Schedule Of Investments Parser
+# Schedule Of Investments Parser
 
 ## Description
 
