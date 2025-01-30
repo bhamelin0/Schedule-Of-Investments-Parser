@@ -1,6 +1,4 @@
-# Project Title
-
-Schedule Of Investments Parser
+# Schedule Of Investments Parser
 
 ## Description
 
@@ -9,7 +7,7 @@ See the /examples folder for examples of input, configuration, and output.
 
 ### Dependencies
 
-Ensure uv is installed to retrieve dependencies: `pip install uv`.
+Ensure uv is installed to retrieve dependencies: `pip install uv`
 
 Install remaining dependencies with `uv sync`
 
