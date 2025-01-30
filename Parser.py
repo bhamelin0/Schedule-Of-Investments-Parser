@@ -175,6 +175,8 @@ def parseInvestmentThroughAPI(investmentPages, client):
 # Pretty print based on configuration
 def outputScheduleInvestmentJson(scheduleOfInvestmentsList, outputFile):
     # Output result to file or console
+
+    # TODO: Implement a try/catch and verify safely that ChatGPT returned JSON, as it cannot be guaranteed, even with response_format = { "type": "json_object" }
     completeJson = json.dumps({ "funds": scheduleOfInvestmentsList }, indent=4)
 
     if outputFile:
