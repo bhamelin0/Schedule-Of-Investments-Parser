@@ -14,7 +14,7 @@ Install remaining dependencies with `uv sync`
 ### Installing
 
 This project requires an OpenAI API key to run.
-This can be configured by adding a `.env` file to root.
+This can be configured by adding a `.env` file to the root folder.
 ```
 API_KEY = "{Your_Api_Key}"
 ```
