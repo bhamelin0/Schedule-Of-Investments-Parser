@@ -8,4 +8,5 @@ dependencies = [
     "configobj>=5.0.9",
     "openai>=1.60.2",
     "pdfplumber>=0.11.5",
+    "python-dotenv>=1.0.1",
 ]
