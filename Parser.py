@@ -60,11 +60,6 @@ def constructScheduleOfInvestmentData(configFile):
     print("Opening PDF...")
     pdf = pdfplumber.open(pdfDoc)
 
-    # Get full report text
-    reportText = ""
-    for page in pdf.pages:
-        reportText += page.extract_text() + "\n"
-
     # Determine pages that are schedule of investments, or are continued schedule of investments
     investmentPages = []
 
