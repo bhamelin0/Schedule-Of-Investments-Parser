@@ -1,7 +1,7 @@
 import sys
 import pdfplumber
 from configobj import ConfigObj
-from parser import extractPageBody, extractPageFooter, extractPageHeader, DEFAULT_COLCOUNT, DEFAULT_INVESTMENT_CONTINUE_PAGE_TARGET, DEFAULT_INVESTMENT_PAGE_TARGET
+from Parser import extractPageBody, extractPageFooter, extractPageHeader, DEFAULT_COLCOUNT, DEFAULT_INVESTMENT_CONTINUE_PAGE_TARGET, DEFAULT_INVESTMENT_PAGE_TARGET
 
 # Initialize from config and environment variables
 if len(sys.argv) < 2:
